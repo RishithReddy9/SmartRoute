@@ -1,6 +1,6 @@
-# 🚚 SmartRouteX – AI-powered Route Optimization for Last-Mile Logistics
+# 🚚 SmartRoute – AI-powered Route Optimization for Last-Mile Logistics
 
-SmartRouteX is a real-world-ready logistics route planner that optimizes delivery or pickup routes using Google Maps and Google OR-Tools. Designed for logistics companies, delivery startups, and route-based businesses, the app finds the most efficient paths between a central depot and multiple delivery points based on travel distance, time windows, and package load.
+SmartRoute is a real-world-ready logistics route planner that optimizes delivery or pickup routes using Google Maps and Google OR-Tools. Designed for logistics companies, delivery startups, and route-based businesses, the app finds the most efficient paths between a central depot and multiple delivery points based on travel distance, time windows, and package load.
 
 > 📍 View optimized routes on an interactive map with clearly numbered stops  
 > ⚙️ Integrate real road conditions with Google Directions API  
@@ -36,6 +36,6 @@ SmartRouteX is a real-world-ready logistics route planner that optimizes deliver
 ### 🔌 Installation
 
 ```bash
-git clone https://github.com/yourusername/smartroutex.git
-cd smartroutex
+git clone https://github.com/yourusername/SmartRoute.git
+cd SmartRoute
 pip install -r requirements.txt
