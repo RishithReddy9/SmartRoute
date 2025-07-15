@@ -21,7 +21,8 @@ SmartRouteX is a real-world-ready logistics route planner that optimizes deliver
 
 ## 📸 Demo Screenshots
 
-![SmartRouteX Demo](docs/demo1.jpg)(docs/demo2.jpg)
+![SmartRouteX Demo](docs/demo1.jpg)
+![SmartRouteX Demo](docs/demo2.jpg)
 
 ---
 
