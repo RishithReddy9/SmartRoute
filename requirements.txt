@@ -1,0 +1,7 @@
+streamlit
+folium
+branca
+pandas
+requests
+python-dotenv
+ortools

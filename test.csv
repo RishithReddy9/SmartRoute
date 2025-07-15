@@ -1,0 +1,11 @@
+Location,Address,PackageWeight,TimeWindowStart,TimeWindowEnd
+Depot,"LIG - 583, KPHB Phase 1, Kukatpally, Hyderabad",0,0,0
+Customer1,"Mindspace IT Park, Madhapur, Hyderabad",5,9,17
+Customer2,"Inorbit Mall, Hitech City, Hyderabad",8,10,16
+Customer3,"Gachibowli Stadium, Gachibowli, Hyderabad",7,11,15
+Customer4,"Mehdipatnam Bus Depot, Hyderabad",4,10,14
+Customer5,"Koti Women's College, Hyderabad",6,9,13
+Customer6,"Begumpet Airport Road, Hyderabad",3,8,12
+Customer7,"Banjara Hills Road No. 12, Hyderabad",4,11,17
+Customer8,"L.B. Nagar Metro Station, Hyderabad",9,9,16
+Customer9,"Tarnaka Metro Station, Hyderabad",6,8,15
